@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
 <<<<<<< HEAD
   res.send('🚀 Hello dev from GitHub Actions Deployment!');
 =======
-  res.send('🚀 Hello main from GitHub Actions Deployment!');
+  res.send('🚀 Hello dev from GitHub Actions Deployment!');
 >>>>>>> e6adf3e (Update app.js)
 });
 
